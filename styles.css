@@ -36,3 +36,20 @@ img {
 .menu li {
     font-size: 24px;
 }
+
+h1 a {
+    color: #F9F7F7;
+    text-decoration:none
+}
+
+h1 a:visited {
+    color: #F9F7F7;
+}
+
+h1 a:hover {
+    color: #F9F7F7;
+}
+
+h1 a:active {
+    color: #F9F7F7;
+}
