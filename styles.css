@@ -22,6 +22,11 @@ h1 {
     padding: 20px;
 }
 
+h1 a {
+    color: #F9F7F7;
+    text-decoration:none
+}
+
 h2 {
     margin: 0px -10px 0px -10px;
     padding: 20px;
@@ -33,23 +38,15 @@ img {
     margin-right: auto;
 }
 
-.menu li {
-    font-size: 24px;
-}
-
-h1 a {
-    color: #F9F7F7;
-    text-decoration:none
-}
-
-h1 a:visited {
-    color: #F9F7F7;
-}
-
-h1 a:hover {
-    color: #F9F7F7;
-}
-
-h1 a:active {
-    color: #F9F7F7;
+.menu {
+    display: block;
+    font-size: 28px;
+    color: #112D4E;
+    text-align: center;
+    font-weight: bold;
+    width: 500px;
+    margin: 20px auto 20px auto;
+    padding: 30px;
+    border: 2px solid #112D4E;
+    text-decoration: none;
 }
