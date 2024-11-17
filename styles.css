@@ -27,9 +27,10 @@ h2 {
     padding: 20px;
 }
 
-div {
-    text-align: center;
-    margin: 0px 0px -4px 0px;
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .menu li {
