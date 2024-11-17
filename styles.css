@@ -8,7 +8,6 @@ h2 {
     background-color: #112D4E;
     color: #F9F7F7;
     font-weight: bold;
-    text-align: center;
 }
 
 p,
@@ -18,10 +17,19 @@ li {
 
 h1 {
     font-size: 42px;
+    text-align: center;
+    margin: -10px -10px 0px -10px;
+    padding: 20px;
+}
+
+h2 {
+    margin: 0px -10px 0px -10px;
+    padding: 20px;
 }
 
 div {
     text-align: center;
+    margin: 0px 0px -4px 0px;
 }
 
 .menu li {
