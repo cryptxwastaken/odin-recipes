@@ -1,11 +1,12 @@
 body {
     font-family: Garamond, serif;
+    background-color: #DBE2EF;
 }
 
 h1,
 h2 {
-    background-color: blanchedalmond;
-    color: brown;
+    background-color: #112D4E;
+    color: #F9F7F7;
     font-weight: bold;
     text-align: center;
 }
