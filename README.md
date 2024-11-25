@@ -8,3 +8,4 @@ This project is a simple recipe website that shows a collection of recipes. Each
 
 - **Git**: Commit messages.
 - **HTML**: Elements and tags, HTML boilerplate, lists, and links and images.
+- **CSS**: Cascade, box model, and block and inline.
